@@ -1,0 +1,1 @@
+Khaled AI v0.2 - Voice Edition. Replace the old project files with these files.
